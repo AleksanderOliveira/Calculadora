@@ -22,9 +22,6 @@ double div(double a, double b){
 	else
 		return -1;
 }
-double pot(double a, double b){
-	pow(a,b);
-}
 
 int main(int argc, char** argv) {
 	setlocale(LC_ALL, "Portuguese");
